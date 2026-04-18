@@ -1,0 +1,501 @@
+text,department,sentiment
+water leakage in area,water,negative
+garbage not collected,sanitation,negative
+water supply not working,water,negative
+water leakage in area,water,negative
+potholes on road,road,negative
+road is very clean,road,positive
+voltage fluctuation issue,electricity,negative
+road is very clean,road,positive
+voltage fluctuation issue,electricity,negative
+voltage fluctuation issue,electricity,negative
+no water since morning,water,negative
+bad road condition,road,negative
+water supply not working,water,negative
+potholes on road,road,negative
+clean area,sanitation,positive
+road is broken,road,negative
+electricity not working,electricity,negative
+electricity not working,electricity,negative
+area is very clean,sanitation,positive
+waste management issue,sanitation,negative
+no water since morning,water,negative
+garbage not collected,sanitation,negative
+waste management issue,sanitation,negative
+good water service,water,positive
+no electricity since yesterday,electricity,negative
+no water since morning,water,negative
+road repaired quickly,road,negative
+water issue for two days,water,negative
+no electricity since yesterday,electricity,negative
+dirty surroundings,sanitation,negative
+power cut for hours,electricity,negative
+no water since morning,water,negative
+dirty surroundings,sanitation,negative
+road is broken,road,negative
+road is very clean,road,positive
+electricity working fine,electricity,positive
+good water service,water,positive
+dirty surroundings,sanitation,negative
+power cut for hours,electricity,negative
+no water since morning,water,negative
+road repaired quickly,road,negative
+garbage not collected,sanitation,negative
+no water since morning,water,negative
+water supply not working,water,negative
+road repaired quickly,road,negative
+no electricity since yesterday,electricity,negative
+road is very clean,road,positive
+bad road condition,road,negative
+water supply not working,water,negative
+voltage fluctuation issue,electricity,negative
+electricity not working,electricity,negative
+electricity not working,electricity,negative
+road is broken,road,negative
+water leakage in area,water,negative
+electricity not working,electricity,negative
+road repaired quickly,road,negative
+no electricity since yesterday,electricity,negative
+potholes on road,road,negative
+water supply not working,water,negative
+garbage not collected,sanitation,negative
+power cut for hours,electricity,negative
+road is broken,road,negative
+voltage fluctuation issue,electricity,negative
+garbage not collected,sanitation,negative
+road is very clean,road,positive
+no electricity since yesterday,electricity,negative
+no electricity since yesterday,electricity,negative
+road is very clean,road,positive
+dirty surroundings,sanitation,negative
+water issue for two days,water,negative
+road is broken,road,negative
+potholes on road,road,negative
+road is very clean,road,positive
+potholes on road,road,negative
+electricity not working,electricity,negative
+electricity working fine,electricity,positive
+power cut for hours,electricity,negative
+potholes on road,road,negative
+water supply not working,water,negative
+no water since morning,water,negative
+electricity working fine,electricity,positive
+no electricity since yesterday,electricity,negative
+power cut for hours,electricity,negative
+water issue for two days,water,negative
+water leakage in area,water,negative
+electricity working fine,electricity,positive
+dirty surroundings,sanitation,negative
+power cut for hours,electricity,negative
+water leakage in area,water,negative
+good water service,water,positive
+waste management issue,sanitation,negative
+power cut for hours,electricity,negative
+electricity working fine,electricity,positive
+no water since morning,water,negative
+clean area,sanitation,positive
+clean area,sanitation,positive
+good water service,water,positive
+water supply not working,water,negative
+good water service,water,positive
+road is broken,road,negative
+water leakage in area,water,negative
+good water service,water,positive
+no electricity since yesterday,electricity,negative
+water supply not working,water,negative
+water leakage in area,water,negative
+voltage fluctuation issue,electricity,negative
+area is very clean,sanitation,positive
+road is broken,road,negative
+good water service,water,positive
+dirty surroundings,sanitation,negative
+water leakage in area,water,negative
+electricity not working,electricity,negative
+electricity working fine,electricity,positive
+road repaired quickly,road,negative
+waste management issue,sanitation,negative
+voltage fluctuation issue,electricity,negative
+good water service,water,positive
+road is very clean,road,positive
+no electricity since yesterday,electricity,negative
+water leakage in area,water,negative
+area is very clean,sanitation,positive
+dirty surroundings,sanitation,negative
+water issue for two days,water,negative
+electricity working fine,electricity,positive
+electricity working fine,electricity,positive
+area is very clean,sanitation,positive
+potholes on road,road,negative
+road is broken,road,negative
+potholes on road,road,negative
+road repaired quickly,road,negative
+electricity not working,electricity,negative
+power cut for hours,electricity,negative
+garbage not collected,sanitation,negative
+no electricity since yesterday,electricity,negative
+water supply not working,water,negative
+power cut for hours,electricity,negative
+road repaired quickly,road,negative
+clean area,sanitation,positive
+dirty surroundings,sanitation,negative
+road repaired quickly,road,negative
+potholes on road,road,negative
+water issue for two days,water,negative
+road repaired quickly,road,negative
+voltage fluctuation issue,electricity,negative
+electricity not working,electricity,negative
+electricity working fine,electricity,positive
+water issue for two days,water,negative
+road is very clean,road,positive
+dirty surroundings,sanitation,negative
+road is broken,road,negative
+water supply not working,water,negative
+road repaired quickly,road,negative
+road is broken,road,negative
+water supply not working,water,negative
+voltage fluctuation issue,electricity,negative
+no water since morning,water,negative
+road is broken,road,negative
+water leakage in area,water,negative
+waste management issue,sanitation,negative
+clean area,sanitation,positive
+no electricity since yesterday,electricity,negative
+good water service,water,positive
+water issue for two days,water,negative
+no water since morning,water,negative
+road is very clean,road,positive
+road is very clean,road,positive
+no electricity since yesterday,electricity,negative
+waste management issue,sanitation,negative
+clean area,sanitation,positive
+voltage fluctuation issue,electricity,negative
+garbage not collected,sanitation,negative
+road is very clean,road,positive
+clean area,sanitation,positive
+power cut for hours,electricity,negative
+dirty surroundings,sanitation,negative
+waste management issue,sanitation,negative
+dirty surroundings,sanitation,negative
+no electricity since yesterday,electricity,negative
+water issue for two days,water,negative
+road is broken,road,negative
+water supply not working,water,negative
+water leakage in area,water,negative
+electricity working fine,electricity,positive
+water issue for two days,water,negative
+area is very clean,sanitation,positive
+water supply not working,water,negative
+road is very clean,road,positive
+potholes on road,road,negative
+good water service,water,positive
+electricity not working,electricity,negative
+area is very clean,sanitation,positive
+voltage fluctuation issue,electricity,negative
+waste management issue,sanitation,negative
+garbage not collected,sanitation,negative
+no water since morning,water,negative
+good water service,water,positive
+water leakage in area,water,negative
+area is very clean,sanitation,positive
+road is broken,road,negative
+dirty surroundings,sanitation,negative
+electricity not working,electricity,negative
+potholes on road,road,negative
+waste management issue,sanitation,negative
+good water service,water,positive
+electricity working fine,electricity,positive
+potholes on road,road,negative
+garbage not collected,sanitation,negative
+water issue for two days,water,negative
+dirty surroundings,sanitation,negative
+good water service,water,positive
+bad road condition,road,negative
+road is very clean,road,positive
+water leakage in area,water,negative
+electricity working fine,electricity,positive
+road is very clean,road,positive
+potholes on road,road,negative
+water supply not working,water,negative
+good water service,water,positive
+garbage not collected,sanitation,negative
+waste management issue,sanitation,negative
+electricity working fine,electricity,positive
+electricity working fine,electricity,positive
+waste management issue,sanitation,negative
+waste management issue,sanitation,negative
+water supply not working,water,negative
+electricity not working,electricity,negative
+area is very clean,sanitation,positive
+area is very clean,sanitation,positive
+electricity working fine,electricity,positive
+water issue for two days,water,negative
+electricity working fine,electricity,positive
+potholes on road,road,negative
+power cut for hours,electricity,negative
+area is very clean,sanitation,positive
+voltage fluctuation issue,electricity,negative
+water issue for two days,water,negative
+power cut for hours,electricity,negative
+voltage fluctuation issue,electricity,negative
+power cut for hours,electricity,negative
+road repaired quickly,road,negative
+no water since morning,water,negative
+road repaired quickly,road,negative
+waste management issue,sanitation,negative
+clean area,sanitation,positive
+area is very clean,sanitation,positive
+electricity not working,electricity,negative
+area is very clean,sanitation,positive
+bad road condition,road,negative
+water leakage in area,water,negative
+water supply not working,water,negative
+no water since morning,water,negative
+waste management issue,sanitation,negative
+water issue for two days,water,negative
+voltage fluctuation issue,electricity,negative
+voltage fluctuation issue,electricity,negative
+no electricity since yesterday,electricity,negative
+voltage fluctuation issue,electricity,negative
+dirty surroundings,sanitation,negative
+waste management issue,sanitation,negative
+bad road condition,road,negative
+water issue for two days,water,negative
+good water service,water,positive
+road repaired quickly,road,negative
+electricity working fine,electricity,positive
+water issue for two days,water,negative
+voltage fluctuation issue,electricity,negative
+good water service,water,positive
+voltage fluctuation issue,electricity,negative
+garbage not collected,sanitation,negative
+waste management issue,sanitation,negative
+water issue for two days,water,negative
+electricity not working,electricity,negative
+power cut for hours,electricity,negative
+no water since morning,water,negative
+water leakage in area,water,negative
+water leakage in area,water,negative
+no electricity since yesterday,electricity,negative
+power cut for hours,electricity,negative
+good water service,water,positive
+bad road condition,road,negative
+garbage not collected,sanitation,negative
+waste management issue,sanitation,negative
+water leakage in area,water,negative
+no electricity since yesterday,electricity,negative
+electricity working fine,electricity,positive
+electricity working fine,electricity,positive
+road is very clean,road,positive
+water leakage in area,water,negative
+water supply not working,water,negative
+bad road condition,road,negative
+road repaired quickly,road,negative
+power cut for hours,electricity,negative
+no water since morning,water,negative
+road is broken,road,negative
+waste management issue,sanitation,negative
+electricity not working,electricity,negative
+road repaired quickly,road,negative
+clean area,sanitation,positive
+road is broken,road,negative
+good water service,water,positive
+road repaired quickly,road,negative
+road is broken,road,negative
+potholes on road,road,negative
+road is broken,road,negative
+potholes on road,road,negative
+voltage fluctuation issue,electricity,negative
+voltage fluctuation issue,electricity,negative
+road repaired quickly,road,negative
+good water service,water,positive
+power cut for hours,electricity,negative
+road is very clean,road,positive
+power cut for hours,electricity,negative
+dirty surroundings,sanitation,negative
+area is very clean,sanitation,positive
+no water since morning,water,negative
+dirty surroundings,sanitation,negative
+road is very clean,road,positive
+no water since morning,water,negative
+bad road condition,road,negative
+garbage not collected,sanitation,negative
+good water service,water,positive
+road repaired quickly,road,negative
+electricity working fine,electricity,positive
+electricity not working,electricity,negative
+water leakage in area,water,negative
+dirty surroundings,sanitation,negative
+garbage not collected,sanitation,negative
+water leakage in area,water,negative
+electricity working fine,electricity,positive
+waste management issue,sanitation,negative
+area is very clean,sanitation,positive
+electricity working fine,electricity,positive
+no electricity since yesterday,electricity,negative
+bad road condition,road,negative
+clean area,sanitation,positive
+electricity not working,electricity,negative
+no electricity since yesterday,electricity,negative
+good water service,water,positive
+dirty surroundings,sanitation,negative
+clean area,sanitation,positive
+electricity working fine,electricity,positive
+power cut for hours,electricity,negative
+dirty surroundings,sanitation,negative
+water issue for two days,water,negative
+potholes on road,road,negative
+no electricity since yesterday,electricity,negative
+voltage fluctuation issue,electricity,negative
+waste management issue,sanitation,negative
+no electricity since yesterday,electricity,negative
+dirty surroundings,sanitation,negative
+electricity working fine,electricity,positive
+electricity not working,electricity,negative
+water issue for two days,water,negative
+electricity not working,electricity,negative
+water supply not working,water,negative
+power cut for hours,electricity,negative
+dirty surroundings,sanitation,negative
+voltage fluctuation issue,electricity,negative
+no water since morning,water,negative
+potholes on road,road,negative
+electricity working fine,electricity,positive
+bad road condition,road,negative
+road repaired quickly,road,negative
+water issue for two days,water,negative
+road repaired quickly,road,negative
+road is broken,road,negative
+road is very clean,road,positive
+bad road condition,road,negative
+good water service,water,positive
+electricity working fine,electricity,positive
+clean area,sanitation,positive
+clean area,sanitation,positive
+no water since morning,water,negative
+potholes on road,road,negative
+road is very clean,road,positive
+potholes on road,road,negative
+potholes on road,road,negative
+area is very clean,sanitation,positive
+road repaired quickly,road,negative
+potholes on road,road,negative
+no water since morning,water,negative
+voltage fluctuation issue,electricity,negative
+electricity working fine,electricity,positive
+bad road condition,road,negative
+water issue for two days,water,negative
+bad road condition,road,negative
+road is very clean,road,positive
+road repaired quickly,road,negative
+electricity working fine,electricity,positive
+garbage not collected,sanitation,negative
+no electricity since yesterday,electricity,negative
+electricity working fine,electricity,positive
+road repaired quickly,road,negative
+bad road condition,road,negative
+water issue for two days,water,negative
+power cut for hours,electricity,negative
+waste management issue,sanitation,negative
+potholes on road,road,negative
+water leakage in area,water,negative
+garbage not collected,sanitation,negative
+dirty surroundings,sanitation,negative
+road is very clean,road,positive
+garbage not collected,sanitation,negative
+area is very clean,sanitation,positive
+clean area,sanitation,positive
+potholes on road,road,negative
+area is very clean,sanitation,positive
+road is broken,road,negative
+power cut for hours,electricity,negative
+water supply not working,water,negative
+bad road condition,road,negative
+voltage fluctuation issue,electricity,negative
+bad road condition,road,negative
+dirty surroundings,sanitation,negative
+water issue for two days,water,negative
+clean area,sanitation,positive
+bad road condition,road,negative
+road repaired quickly,road,negative
+potholes on road,road,negative
+clean area,sanitation,positive
+road repaired quickly,road,negative
+no electricity since yesterday,electricity,negative
+clean area,sanitation,positive
+water issue for two days,water,negative
+water supply not working,water,negative
+clean area,sanitation,positive
+clean area,sanitation,positive
+electricity not working,electricity,negative
+water supply not working,water,negative
+water leakage in area,water,negative
+no water since morning,water,negative
+power cut for hours,electricity,negative
+no electricity since yesterday,electricity,negative
+road is broken,road,negative
+water issue for two days,water,negative
+water issue for two days,water,negative
+area is very clean,sanitation,positive
+area is very clean,sanitation,positive
+voltage fluctuation issue,electricity,negative
+bad road condition,road,negative
+bad road condition,road,negative
+waste management issue,sanitation,negative
+road repaired quickly,road,negative
+area is very clean,sanitation,positive
+road is broken,road,negative
+garbage not collected,sanitation,negative
+water supply not working,water,negative
+water issue for two days,water,negative
+road is very clean,road,positive
+potholes on road,road,negative
+electricity working fine,electricity,positive
+dirty surroundings,sanitation,negative
+potholes on road,road,negative
+electricity working fine,electricity,positive
+water leakage in area,water,negative
+bad road condition,road,negative
+potholes on road,road,negative
+dirty surroundings,sanitation,negative
+bad road condition,road,negative
+road repaired quickly,road,negative
+electricity working fine,electricity,positive
+voltage fluctuation issue,electricity,negative
+area is very clean,sanitation,positive
+electricity not working,electricity,negative
+road repaired quickly,road,negative
+no water since morning,water,negative
+area is very clean,sanitation,positive
+good water service,water,positive
+area is very clean,sanitation,positive
+garbage not collected,sanitation,negative
+area is very clean,sanitation,positive
+road is very clean,road,positive
+voltage fluctuation issue,electricity,negative
+water supply not working,water,negative
+waste management issue,sanitation,negative
+water issue for two days,water,negative
+road is very clean,road,positive
+potholes on road,road,negative
+road is very clean,road,positive
+road is very clean,road,positive
+garbage not collected,sanitation,negative
+dirty surroundings,sanitation,negative
+potholes on road,road,negative
+bad road condition,road,negative
+no water since morning,water,negative
+water issue for two days,water,negative
+clean area,sanitation,positive
+water issue for two days,water,negative
+bad road condition,road,negative
+water issue for two days,water,negative
+road repaired quickly,road,negative
+water leakage in area,water,negative
+bad road condition,road,negative
+road is very clean,road,positive
+waste management issue,sanitation,negative
+electricity working fine,electricity,positive
+voltage fluctuation issue,electricity,negative
+road repaired quickly,road,negative
+electricity working fine,electricity,positive
+clean area,sanitation,positive
